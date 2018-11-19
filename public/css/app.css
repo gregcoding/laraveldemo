@@ -8480,6 +8480,14 @@ aside section span {
   line-height: 1;
 }
 
+#logout {
+  cursor: default;
+}
+
+#logout:hover {
+  background-color: transparent;
+}
+
 section.user_info {
   padding-bottom: 10px;
   margin-top: 20px;
